@@ -1,2 +1,1 @@
-# B.Tech_Project
-Design of Clarifier &amp; Flash Mixer at ETP Plant
+Designed and sized a primary sedimentation tank and secondary clarifier for a real case industrial Effluent Treatment Plant(ETP), ensuring compliance with discharge quality standards.Performed mass & energy balance and cost estimation to ensure efficiency and feasibility.Developed cost estimation and material requirement analysis for clarifier and flash mixer construction.
